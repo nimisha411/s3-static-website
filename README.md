@@ -38,4 +38,4 @@ Live website hosted on S3 URL
 
 ## 👨‍💻 Author
 
-Your Name
+Nimisha Mali
